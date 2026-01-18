@@ -32,7 +32,7 @@ Recall supports the following commands:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/0hook/Recall
+   git clone https://github.com/viewvector/Recall
    cd Recall
    ```
 
